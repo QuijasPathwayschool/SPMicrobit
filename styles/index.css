@@ -1,0 +1,32 @@
+/**
+ * index.css
+ * - Add any styles want here!
+ */
+
+body {
+  background: #e6b711;
+}
+h1 {
+  background-color: #003f6b;
+  color: white;
+  text-align: center;
+}
+p{
+
+  color: #f43d09;
+}
+img{
+  width:25%;
+}
+
+div {
+    width: 970px;
+    height: 900px;
+    background-color: #64B5F6;
+    text-align: center;
+    border: 8px solid #fff;
+    font-family: 'Cabin Sketch', cursive;
+    margin: 30px auto;
+    padding: 10px;
+    box-shadow: -10px -15px 10px rgba(0, 0, 0, 0.3);
+}
