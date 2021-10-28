@@ -20,8 +20,8 @@ img{
 }
 
 div {
-    width: 970px;
-    height: 600px;
+    width: 75%;/*980px;*/
+    height: 95%;/*650px;*/
     background-color: #64B5F6;
     text-align: center;
     border: 8px solid #fff;
